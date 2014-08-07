@@ -1,0 +1,12 @@
+E:\Projects\DCSandBox\DCSandBox\DCSandBox\bin\DCSandBox.dll.config
+E:\Projects\DCSandBox\DCSandBox\DCSandBox\bin\DCSandBox.dll
+E:\Projects\DCSandBox\DCSandBox\DCSandBox\bin\DCSandBox.pdb
+E:\Projects\DCSandBox\DCSandBox\DCSandBox\obj\Debug\DCSandBox.csprojResolveAssemblyReference.cache
+E:\Projects\DCSandBox\DCSandBox\DCSandBox\obj\Debug\DCSandBox.dll
+E:\Projects\DCSandBox\DCSandBox\DCSandBox\obj\Debug\DCSandBox.pdb
+C:\Users\greyes\Desktop\DCSandBox\DCSandBox\DCSandBox\bin\DCSandBox.dll.config
+C:\Users\greyes\Desktop\DCSandBox\DCSandBox\DCSandBox\bin\DCSandBox.dll
+C:\Users\greyes\Desktop\DCSandBox\DCSandBox\DCSandBox\bin\DCSandBox.pdb
+C:\Users\greyes\Desktop\DCSandBox\DCSandBox\DCSandBox\obj\Debug\DCSandBox.csprojResolveAssemblyReference.cache
+C:\Users\greyes\Desktop\DCSandBox\DCSandBox\DCSandBox\obj\Debug\DCSandBox.dll
+C:\Users\greyes\Desktop\DCSandBox\DCSandBox\DCSandBox\obj\Debug\DCSandBox.pdb
